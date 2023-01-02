@@ -14,6 +14,6 @@ if year % 4 == 1:
     cond = False
 
 if cond == True:
-    print("Leap Year")
+    print("Is Leap Year")
 else:
-    print("Not Leap")
+    print("Is Not Leap")

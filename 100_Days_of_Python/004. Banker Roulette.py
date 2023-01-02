@@ -2,7 +2,7 @@
 
 print("Let's see who pays the bill today!")
 
-names_string = input("Provide everybody's names, separated by a comma.\nNames: ")
+names_string = input("Provide everybody's names, separated by a comma, please.\nNames: ")
 names = names_string.split(", ")
 
 import random

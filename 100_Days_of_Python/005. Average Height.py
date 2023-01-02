@@ -3,4 +3,4 @@ suma = 0
 for height in students:
     suma += height
 
-print(round(suma/len(students)))
+print("Average height is:", round(suma/len(students)))

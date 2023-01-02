@@ -1,5 +1,5 @@
 # 1 year = 365, 1 year 52 weeks, 1 year = 12 months
-age = int(input("What is your current age?\nMy age = "))
+age = int(input("What is your current age?\nMy age is = "))
 
 days = (90 - age) * 365
 weeks = (90 - age) * 52

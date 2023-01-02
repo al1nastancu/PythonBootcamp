@@ -3,8 +3,8 @@ word_list = ['cat', 'dog', 'bird', 'mouse', 'house', 'tree', 'flower', 'grass', 
 import random
 chosen_word = random.choice(word_list)  # chose a random word
 
-# Testing Code
-# print(f"The word is {chosen_word}")  # for debugging
+# Testing Code, for debugging
+# print(f"The word is {chosen_word}")
 
 display = []  # this list will be displayed to the user
 for i in range(len(chosen_word)):

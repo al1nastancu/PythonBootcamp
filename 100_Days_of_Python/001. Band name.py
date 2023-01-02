@@ -1,1 +1,1 @@
-print("Your band name is: " + input("City name: ") + input("Pet name: "))
+print("Your band name is: " + input("City name is: ") + input("Pet name is: "))

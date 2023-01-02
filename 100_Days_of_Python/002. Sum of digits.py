@@ -5,5 +5,5 @@ number = int(input("Your number = "))
 print("Sum of digits = ", int(number % 10 + number / 10))
 
 # Method 2
-number = input("Your number = ")
+number = input("Your number is = ")
 print("Sum of digits = ", int(number[0]) + int(number[1]))

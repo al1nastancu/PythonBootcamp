@@ -1,7 +1,7 @@
 # Flip the coin
 import random
 
-print("Let's flip some coins!")
+print("Let's flip some coins today!")
 # 1 - means Heads
 # 0 - means Tails
 

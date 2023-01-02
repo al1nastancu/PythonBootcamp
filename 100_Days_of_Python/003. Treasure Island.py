@@ -5,7 +5,7 @@ location = input("FIRST. You will go: left or right?\nChoice = ")
 if location == 'right' or location == 'Right':
     print("---> You stepped in fire! GAME OVER.")
 elif location == 'left' or location == 'Left':
-    location = input("THERE'S A RIVER! Would you like to swim or wait?\nChoice = ")
+    location = input("THERE'S A RIVER ! Would you like to swim or wait?\nChoice = ")
     if location == 'swim' or location == 'Swim':
         print("---> AWWWR, THAT GOLDEN FISH JUST ATE YOU! Game over.")
     elif location == 'wait' or location == 'Wait':
