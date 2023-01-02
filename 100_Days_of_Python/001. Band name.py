@@ -1,0 +1,1 @@
+print("Your band name is: " + input("City name: ") + input("Pet name: "))
